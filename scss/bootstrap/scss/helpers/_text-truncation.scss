@@ -1,0 +1,11 @@
+//
+// Text truncation
+//
+
+.text-truncate {
+  @include text-truncate();
+}
+
+.text-cor-primary {
+  color: #4673c0;
+}
